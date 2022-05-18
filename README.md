@@ -1,6 +1,8 @@
 # Polygraph
 A multi-dimensional pie chart visualization
 
+Requires tkinter, pillow, and Ghostscript
+
 version 1.0
 
 How to use:
